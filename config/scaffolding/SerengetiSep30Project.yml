@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Radhika-Warrier-IBM
   gitUsername: Radhika-Warrier-IBM
   gitBranch: main
+- name: GithubPackageDebuglog
+  gitServerName: srcGithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main

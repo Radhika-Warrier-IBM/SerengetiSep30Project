@@ -8,17 +8,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="GithubPackageDebuglog">2.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">30-09-2025 05:54:20 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-09-30T05:54:21.6366594Z</value>
+  <value name="lastUpdated">2025-09-30T05:55:08.893780799Z</value>
   <value name="wmProjectId">fld373dcd6418f93a9f8817f</value>
   <value name="creator">Radhika Warrier</value>
 </Values>
