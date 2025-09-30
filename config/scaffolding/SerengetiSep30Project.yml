@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SerengetiSep30Project
+  gitServerName: githubrwshared
+  gitUrl: https://github.com/Radhika-Warrier-IBM
+  gitUsername: Radhika-Warrier-IBM
+  gitBranch: main
